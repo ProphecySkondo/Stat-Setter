@@ -1,0 +1,7 @@
+--[[ Join: https://discord.gg/tuc4hUd7qx ]]--
+Settings = {
+	Amount = 999,
+	StatValue = "Phys-Damage", -- Phys-Damage | Ki-Damage | Health-Max | Ki-Max | Phys-Resist | Speed | None
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProphecySkondo/Stat-Setter/refs/heads/main/Obsfucated"))()
